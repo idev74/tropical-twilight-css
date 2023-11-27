@@ -1,6 +1,5 @@
-# CSS Framework Starter Sample
+# Tropical Twilight CSS Framework
 
-The HTML in this file can be used to test your CSS framework. 
+A CSS framework with a darker, dustier tropical theme! 
 
-The HTML here contains a variety of markup that you might find in any web page.
- 
+
